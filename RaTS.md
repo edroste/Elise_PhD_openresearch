@@ -1,16 +1,13 @@
 # Rothera Oceanographic and Biological Time Series (RaTS)
 
-## Obtaining the Data
-
-### Data From / Samples Analysed by Others
+## Data From / Samples Analysed by Others
 
 
-### DIC and TA Samples
+## DIC and TA Sample Collection
 
 
-## DIC and TA Analysis 
+## DIC and TA: Analytical and Computational
 
 ### DIC 
-
 
 ### TA 
