@@ -28,17 +28,17 @@ There are two study areas that I'm currently working on:
 ### Rothera
 Rothera is a British research station on the West-Antarctic Peninsula and is run by the British Antarctic Survey (BAS). They started to create a time series in 1997, called the [Rothera Oceanographic and Biological Time Series (RaTS)](https://www.bas.ac.uk/project/rats/), during which they sample and measure a whole array of variables that will over time give us insight into how this region is affected by the changing climate. Since 2010, they have also started sampling for DIC and TA. The DIC/TA time series from 2010 to 2014 has been published by Legge et al. [(2015,](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL063796) [2017)](https://www.sciencedirect.com/science/article/pii/S0967064516303253). Samples for 2016-2017 have been analysed at UEA and I analysed samples between 2017 and 2019, also at UEA. It is these sample measurements that my processing scripts have transformed into something useful for analysis. 
 
+Click [here](RaTS.md) to start reading about the RaTS data used in my research. 
+
 ### Weddell Sea
 My work on the Weddell Sea heavily relies on the measurements and samples taken during the [PS117 expedition](https://www.tib.eu/en/search/id/awi%3Adoi~10.2312%252FBzPM_0732_2019/), which was run by the Alfred-Wegener Institute (AWI). The German ice breaker, R.V. Polarstern, left Cape Town, South Africa, on the 15th of December 2018, sailed south (roughly) along the Greenwich Meridian, transferred supplies to the Germain research station Neumayer III, zigzagged west accross the Weddell Sea to reach Elephant Island, and ended the expedition on the 7th of February 2019 in Punta Arenas, Chile. 
 
-Click the links in the list above to read more about the data I'm using for these two study regions, how I obtained them, and how I processed them. 
-
-**To do's for Elise on this page:**
-[] Include pretty map of study locations/regions
+Click [here](PS117.md) to start reading about the PS117 data in my research. 
 
 ## How Do I Want to Share My Data and Scripts With You? 
-I'm still trying to figure out what the neatest way is to do this. The thing is that I'm still very much in the epicentre of thr quake of gathering data and making sense out of them (and probably will be until the very end of this PhD journey, because please, who are we kidding?), and I want to be able to share something that has a good overview and can be useful. I use Python for all my coding and generally prefer working in Jupyter Lab. All steps in my code are generally quite well commented (I say that now...), but I'd like to keep them under the hood until I've worked through some more things. I will, however, make all of these available at a later point, along with the raw and final data sets that I have processed from beginning to end (although I might send them to a different data base, in which case I'll refer to that). For now, you can read some more about how I obtained the data and processed them. 
+I'm still trying to figure out what the neatest way is to do this. The thing is that I'm still very much in the epicentre of thr quake of gathering data and making sense out of them (and probably will be until the very end of this PhD journey, because please, who are we kidding?), and I want to be able to share something that has a good overview and can be useful. I use Python for all my coding and generally prefer working in Jupyter Lab. All steps in my code are generally quite well commented (I say that now...), but I'd like to keep them under the hood until I've worked through some more things. I will, however, make all of these available at a later point, along with the raw and final data sets that I have processed from beginning to end (although I might send them to a different data base, in which case I'll refer to that). For now, you can read some more about which data I'm using, how I obtained them, and how I processed them by clicking the links above. 
 
-
+**To do's for Elise on this page:**
+- [] Include pretty map of study locations/regions
 
 
