@@ -33,9 +33,7 @@ Click [here](RaTS.md) to start reading about the RaTS data used in my research.
 ### Weddell Sea
 My work on the Weddell Sea heavily relies on the measurements and samples taken during the [PS117 expedition](https://www.tib.eu/en/search/id/awi%3Adoi~10.2312%252FBzPM_0732_2019/), which was run by the Alfred-Wegener Institute (AWI). The German ice breaker, R.V. Polarstern, left Cape Town, South Africa, on the 15th of December 2018, sailed south (roughly) along the Greenwich Meridian, transferred supplies to the Germain research station Neumayer III, zigzagged west accross the Weddell Sea to reach Elephant Island, and ended the expedition on the 7th of February 2019 in Punta Arenas, Chile. 
 
-Click [here](PS117.md) to start reading about the PS117 data in my research. 
-
-[This](https://edroste.github.io/ED_PhD_PS117/) is just a test!
+Click [here](https://edroste.github.io/ED_PhD_PS117/) to start reading about the PS117 data in my research. 
 
 ## How Do I Want to Share My Data and Scripts With You? 
 I'm still trying to figure out what the neatest way is to do this. The thing is that I'm still very much in the epicentre of thr quake of gathering data and making sense out of them (and probably will be until the very end of this PhD journey, because please, who are we kidding?), and I want to be able to share something that has a good overview and can be useful. I use Python for all my coding and generally prefer working in Jupyter Lab. All steps in my code are generally quite well commented (I say that now...), but I'd like to keep them under the hood until I've worked through some more things. I will, however, make all of these available at a later point, along with the raw and final data sets that I have processed from beginning to end (although I might send them to a different data base, in which case I'll refer to that). For now, you can read some more about which data I'm using, how I obtained them, and how I processed them by clicking the links above. 
